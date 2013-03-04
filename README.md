@@ -1,8 +1,9 @@
 gaborjets
 =========
 Java code for computing "Gabor Jet" features from images (Stacked gabor filter responses at multiple orientations/scales). The included example shows how to track features across two included images. 
-Based on Matlab code from [Xiaomin Yue](http://nmr.mgh.harvard.edu/~xiaomin/). Depends on Piotr Wendykier's [JTransforms](https://sites.google.com/site/piotrwendykier/software/jtransforms) (included, but outdated).
-
+Based on Matlab code from [Xiaomin Yue](http://nmr.mgh.harvard.edu/~xiaomin/). Depends on Piotr Wendykier's [JTransforms](https://sites.google.com/site/piotrwendykier/software/jtransforms) (included, but outdated). 
+This code has since been incorporated into [ExpertEyes](https://code.google.com/p/experteyes/), an open source eye tracking application 
+built in Java.
 
 Usage:
 ======
