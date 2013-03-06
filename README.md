@@ -11,7 +11,7 @@ Compile:
 > javac GWTGrid.java
 
 Run: 
-> java GWTGrid.java
+> java GWTGrid
 
 > maxSim=0.9109851412448251, maxSimIdx=23,26
 > elapsed time=666 ms
